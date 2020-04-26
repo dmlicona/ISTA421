@@ -1,0 +1,11 @@
+C:\Users\denys\ISTA421\Labs\EventsLabStarter\obj\Debug\netcoreapp3.1\EventsLabStarter.csprojAssemblyReference.cache
+C:\Users\denys\ISTA421\Labs\EventsLabStarter\obj\Debug\netcoreapp3.1\EventsLabStarter.AssemblyInfoInputs.cache
+C:\Users\denys\ISTA421\Labs\EventsLabStarter\obj\Debug\netcoreapp3.1\EventsLabStarter.AssemblyInfo.cs
+C:\Users\denys\ISTA421\Labs\EventsLabStarter\bin\Debug\netcoreapp3.1\EventsLabStarter.exe
+C:\Users\denys\ISTA421\Labs\EventsLabStarter\bin\Debug\netcoreapp3.1\EventsLabStarter.deps.json
+C:\Users\denys\ISTA421\Labs\EventsLabStarter\bin\Debug\netcoreapp3.1\EventsLabStarter.runtimeconfig.json
+C:\Users\denys\ISTA421\Labs\EventsLabStarter\bin\Debug\netcoreapp3.1\EventsLabStarter.runtimeconfig.dev.json
+C:\Users\denys\ISTA421\Labs\EventsLabStarter\bin\Debug\netcoreapp3.1\EventsLabStarter.dll
+C:\Users\denys\ISTA421\Labs\EventsLabStarter\bin\Debug\netcoreapp3.1\EventsLabStarter.pdb
+C:\Users\denys\ISTA421\Labs\EventsLabStarter\obj\Debug\netcoreapp3.1\EventsLabStarter.dll
+C:\Users\denys\ISTA421\Labs\EventsLabStarter\obj\Debug\netcoreapp3.1\EventsLabStarter.pdb

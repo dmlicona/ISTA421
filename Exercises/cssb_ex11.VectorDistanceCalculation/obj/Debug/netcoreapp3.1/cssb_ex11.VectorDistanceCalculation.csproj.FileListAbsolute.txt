@@ -1,0 +1,13 @@
+C:\Users\denys\ISTA421\Exercises\cssb_ex11.VectorDistanceCalculation\bin\Debug\netcoreapp3.1\cssb_ex11.VectorDistanceCalculation.exe
+C:\Users\denys\ISTA421\Exercises\cssb_ex11.VectorDistanceCalculation\bin\Debug\netcoreapp3.1\cssb_ex11.VectorDistanceCalculation.deps.json
+C:\Users\denys\ISTA421\Exercises\cssb_ex11.VectorDistanceCalculation\bin\Debug\netcoreapp3.1\cssb_ex11.VectorDistanceCalculation.runtimeconfig.json
+C:\Users\denys\ISTA421\Exercises\cssb_ex11.VectorDistanceCalculation\bin\Debug\netcoreapp3.1\cssb_ex11.VectorDistanceCalculation.runtimeconfig.dev.json
+C:\Users\denys\ISTA421\Exercises\cssb_ex11.VectorDistanceCalculation\bin\Debug\netcoreapp3.1\cssb_ex11.VectorDistanceCalculation.dll
+C:\Users\denys\ISTA421\Exercises\cssb_ex11.VectorDistanceCalculation\bin\Debug\netcoreapp3.1\cssb_ex11.VectorDistanceCalculation.pdb
+C:\Users\denys\ISTA421\Exercises\cssb_ex11.VectorDistanceCalculation\obj\Debug\netcoreapp3.1\cssb_ex11.VectorDistanceCalculation.csprojAssemblyReference.cache
+C:\Users\denys\ISTA421\Exercises\cssb_ex11.VectorDistanceCalculation\obj\Debug\netcoreapp3.1\cssb_ex11.VectorDistanceCalculation.csproj.CoreCompileInputs.cache
+C:\Users\denys\ISTA421\Exercises\cssb_ex11.VectorDistanceCalculation\obj\Debug\netcoreapp3.1\cssb_ex11.VectorDistanceCalculation.AssemblyInfoInputs.cache
+C:\Users\denys\ISTA421\Exercises\cssb_ex11.VectorDistanceCalculation\obj\Debug\netcoreapp3.1\cssb_ex11.VectorDistanceCalculation.AssemblyInfo.cs
+C:\Users\denys\ISTA421\Exercises\cssb_ex11.VectorDistanceCalculation\obj\Debug\netcoreapp3.1\cssb_ex11.VectorDistanceCalculation.dll
+C:\Users\denys\ISTA421\Exercises\cssb_ex11.VectorDistanceCalculation\obj\Debug\netcoreapp3.1\cssb_ex11.VectorDistanceCalculation.pdb
+C:\Users\denys\ISTA421\Exercises\cssb_ex11.VectorDistanceCalculation\obj\Debug\netcoreapp3.1\cssb_ex11.VectorDistanceCalculation.genruntimeconfig.cache

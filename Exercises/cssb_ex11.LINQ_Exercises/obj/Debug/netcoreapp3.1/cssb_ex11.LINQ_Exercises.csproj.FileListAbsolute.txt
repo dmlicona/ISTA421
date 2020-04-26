@@ -1,0 +1,13 @@
+C:\Users\denys\ISTA421\Exercises\cssb_ex11.LINQ_Exercises\bin\Debug\netcoreapp3.1\cssb_ex11.LINQ_Exercises.exe
+C:\Users\denys\ISTA421\Exercises\cssb_ex11.LINQ_Exercises\bin\Debug\netcoreapp3.1\cssb_ex11.LINQ_Exercises.deps.json
+C:\Users\denys\ISTA421\Exercises\cssb_ex11.LINQ_Exercises\bin\Debug\netcoreapp3.1\cssb_ex11.LINQ_Exercises.runtimeconfig.json
+C:\Users\denys\ISTA421\Exercises\cssb_ex11.LINQ_Exercises\bin\Debug\netcoreapp3.1\cssb_ex11.LINQ_Exercises.runtimeconfig.dev.json
+C:\Users\denys\ISTA421\Exercises\cssb_ex11.LINQ_Exercises\bin\Debug\netcoreapp3.1\cssb_ex11.LINQ_Exercises.dll
+C:\Users\denys\ISTA421\Exercises\cssb_ex11.LINQ_Exercises\bin\Debug\netcoreapp3.1\cssb_ex11.LINQ_Exercises.pdb
+C:\Users\denys\ISTA421\Exercises\cssb_ex11.LINQ_Exercises\obj\Debug\netcoreapp3.1\cssb_ex11.LINQ_Exercises.csprojAssemblyReference.cache
+C:\Users\denys\ISTA421\Exercises\cssb_ex11.LINQ_Exercises\obj\Debug\netcoreapp3.1\cssb_ex11.LINQ_Exercises.csproj.CoreCompileInputs.cache
+C:\Users\denys\ISTA421\Exercises\cssb_ex11.LINQ_Exercises\obj\Debug\netcoreapp3.1\cssb_ex11.LINQ_Exercises.AssemblyInfoInputs.cache
+C:\Users\denys\ISTA421\Exercises\cssb_ex11.LINQ_Exercises\obj\Debug\netcoreapp3.1\cssb_ex11.LINQ_Exercises.AssemblyInfo.cs
+C:\Users\denys\ISTA421\Exercises\cssb_ex11.LINQ_Exercises\obj\Debug\netcoreapp3.1\cssb_ex11.LINQ_Exercises.dll
+C:\Users\denys\ISTA421\Exercises\cssb_ex11.LINQ_Exercises\obj\Debug\netcoreapp3.1\cssb_ex11.LINQ_Exercises.pdb
+C:\Users\denys\ISTA421\Exercises\cssb_ex11.LINQ_Exercises\obj\Debug\netcoreapp3.1\cssb_ex11.LINQ_Exercises.genruntimeconfig.cache

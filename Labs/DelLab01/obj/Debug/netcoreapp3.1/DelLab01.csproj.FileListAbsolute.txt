@@ -1,0 +1,11 @@
+C:\Users\denys\ISTA421\Labs\DelLab01\bin\Debug\netcoreapp3.1\DelLab01.exe
+C:\Users\denys\ISTA421\Labs\DelLab01\bin\Debug\netcoreapp3.1\DelLab01.deps.json
+C:\Users\denys\ISTA421\Labs\DelLab01\bin\Debug\netcoreapp3.1\DelLab01.runtimeconfig.json
+C:\Users\denys\ISTA421\Labs\DelLab01\bin\Debug\netcoreapp3.1\DelLab01.runtimeconfig.dev.json
+C:\Users\denys\ISTA421\Labs\DelLab01\bin\Debug\netcoreapp3.1\DelLab01.dll
+C:\Users\denys\ISTA421\Labs\DelLab01\bin\Debug\netcoreapp3.1\DelLab01.pdb
+C:\Users\denys\ISTA421\Labs\DelLab01\obj\Debug\netcoreapp3.1\DelLab01.csprojAssemblyReference.cache
+C:\Users\denys\ISTA421\Labs\DelLab01\obj\Debug\netcoreapp3.1\DelLab01.AssemblyInfoInputs.cache
+C:\Users\denys\ISTA421\Labs\DelLab01\obj\Debug\netcoreapp3.1\DelLab01.AssemblyInfo.cs
+C:\Users\denys\ISTA421\Labs\DelLab01\obj\Debug\netcoreapp3.1\DelLab01.dll
+C:\Users\denys\ISTA421\Labs\DelLab01\obj\Debug\netcoreapp3.1\DelLab01.pdb

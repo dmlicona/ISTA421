@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "cssb_ex11.LINQ_Exercises/1.0.0": {
+        "runtime": {
+          "cssb_ex11.LINQ_Exercises.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "cssb_ex11.LINQ_Exercises/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

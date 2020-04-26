@@ -1,0 +1,13 @@
+C:\Users\denys\ISTA421\Exercises\cssb_ex12.MathGames\bin\Debug\netcoreapp3.1\cssb_ex12.MathGames.exe
+C:\Users\denys\ISTA421\Exercises\cssb_ex12.MathGames\bin\Debug\netcoreapp3.1\cssb_ex12.MathGames.deps.json
+C:\Users\denys\ISTA421\Exercises\cssb_ex12.MathGames\bin\Debug\netcoreapp3.1\cssb_ex12.MathGames.runtimeconfig.json
+C:\Users\denys\ISTA421\Exercises\cssb_ex12.MathGames\bin\Debug\netcoreapp3.1\cssb_ex12.MathGames.runtimeconfig.dev.json
+C:\Users\denys\ISTA421\Exercises\cssb_ex12.MathGames\bin\Debug\netcoreapp3.1\cssb_ex12.MathGames.dll
+C:\Users\denys\ISTA421\Exercises\cssb_ex12.MathGames\bin\Debug\netcoreapp3.1\cssb_ex12.MathGames.pdb
+C:\Users\denys\ISTA421\Exercises\cssb_ex12.MathGames\obj\Debug\netcoreapp3.1\cssb_ex12.MathGames.csprojAssemblyReference.cache
+C:\Users\denys\ISTA421\Exercises\cssb_ex12.MathGames\obj\Debug\netcoreapp3.1\cssb_ex12.MathGames.csproj.CoreCompileInputs.cache
+C:\Users\denys\ISTA421\Exercises\cssb_ex12.MathGames\obj\Debug\netcoreapp3.1\cssb_ex12.MathGames.AssemblyInfoInputs.cache
+C:\Users\denys\ISTA421\Exercises\cssb_ex12.MathGames\obj\Debug\netcoreapp3.1\cssb_ex12.MathGames.AssemblyInfo.cs
+C:\Users\denys\ISTA421\Exercises\cssb_ex12.MathGames\obj\Debug\netcoreapp3.1\cssb_ex12.MathGames.dll
+C:\Users\denys\ISTA421\Exercises\cssb_ex12.MathGames\obj\Debug\netcoreapp3.1\cssb_ex12.MathGames.pdb
+C:\Users\denys\ISTA421\Exercises\cssb_ex12.MathGames\obj\Debug\netcoreapp3.1\cssb_ex12.MathGames.genruntimeconfig.cache

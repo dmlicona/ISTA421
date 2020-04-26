@@ -1,0 +1,135 @@
+C:\Users\denys\ISTA421\Labs\SportsStore\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\denys\ISTA421\Labs\SportsStore\bin\Debug\netcoreapp2.1\SportsStore.deps.json
+C:\Users\denys\ISTA421\Labs\SportsStore\bin\Debug\netcoreapp2.1\SportsStore.runtimeconfig.json
+C:\Users\denys\ISTA421\Labs\SportsStore\bin\Debug\netcoreapp2.1\SportsStore.runtimeconfig.dev.json
+C:\Users\denys\ISTA421\Labs\SportsStore\bin\Debug\netcoreapp2.1\SportsStore.dll
+C:\Users\denys\ISTA421\Labs\SportsStore\bin\Debug\netcoreapp2.1\SportsStore.pdb
+C:\Users\denys\ISTA421\Labs\SportsStore\obj\Debug\netcoreapp2.1\SportsStore.RazorAssemblyInfo.cache
+C:\Users\denys\ISTA421\Labs\SportsStore\obj\Debug\netcoreapp2.1\SportsStore.RazorAssemblyInfo.cs
+C:\Users\denys\ISTA421\Labs\SportsStore\obj\Debug\netcoreapp2.1\SportsStore.AssemblyInfoInputs.cache
+C:\Users\denys\ISTA421\Labs\SportsStore\obj\Debug\netcoreapp2.1\SportsStore.AssemblyInfo.cs
+C:\Users\denys\ISTA421\Labs\SportsStore\obj\Debug\netcoreapp2.1\SportsStore.RazorTargetAssemblyInfo.cache
+C:\Users\denys\ISTA421\Labs\SportsStore\obj\Debug\netcoreapp2.1\SportsStore.dll
+C:\Users\denys\ISTA421\Labs\SportsStore\obj\Debug\netcoreapp2.1\SportsStore.pdb
+C:\Users\denys\ISTA421\Labs\SportsStore\obj\Debug\netcoreapp2.1\SportsStore.TagHelpers.input.cache
+C:\Users\denys\ISTA421\Labs\SportsStore\obj\Debug\netcoreapp2.1\SportsStore.TagHelpers.output.cache
+C:\Users\denys\ISTA421\Labs\SportsStore\obj\Debug\netcoreapp2.1\SportsStore.RazorCoreGenerate.cache
+C:\Users\denys\ISTA421\Labs\SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\denys\ISTA421\Labs\SportsStore\obj\Debug\netcoreapp2.1\SportsStore.RazorTargetAssemblyInfo.cs
+C:\Users\denys\ISTA421\Labs\SportsStore\bin\Debug\netcoreapp2.1\SportsStore.Views.dll
+C:\Users\denys\ISTA421\Labs\SportsStore\bin\Debug\netcoreapp2.1\SportsStore.Views.pdb
+C:\Users\denys\ISTA421\Labs\SportsStore\obj\Debug\netcoreapp2.1\SportsStore.Views.pdb
+C:\Users\denys\ISTA421\Labs\SportsStore\obj\Debug\netcoreapp2.1\SportsStore.csproj.CopyComplete
+C:\Users\denys\ISTA421\Labs\SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\denys\ISTA421\Labs\SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Product\List.cshtml.g.cs
+C:\Users\denys\ISTA421\Labs\SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\denys\ista421\labs\SportsStore\obj\Debug\netcoreapp2.1\SportsStore.csproj.CoreCompileInputs.cache
+C:\Users\denys\ISTA421\Labs\SportsStore\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\denys\ISTA421\Labs\SportsStore\obj\Debug\netcoreapp2.1\SportsStore.genruntimeconfig.cache
+C:\Users\denys\ISTA421\Labs\SportsStore\bin\Debug\netcoreapp2.1\libman.json
+C:\Users\denys\ISTA421\Labs\SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\ProductSummary.cshtml.g.cs
+C:\Users\denys\ISTA421\Labs\SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\NavigationMenu\Default.cshtml.g.cs
+C:\Users\denys\ISTA421\Labs\SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Cart\Index.cshtml.g.cs
+C:\Users\denys\ISTA421\Labs\SportsStore\obj\Debug\netcoreapp2.1\SportsStore.csprojAssemblyReference.cache
+D:\ISTA421\Labs\SportsStore\bin\Debug\netcoreapp2.1\appsettings.json
+D:\ISTA421\Labs\SportsStore\bin\Debug\netcoreapp2.1\libman.json
+D:\ISTA421\Labs\SportsStore\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\ISTA421\Labs\SportsStore\bin\Debug\netcoreapp2.1\SportsStore.deps.json
+D:\ISTA421\Labs\SportsStore\bin\Debug\netcoreapp2.1\SportsStore.runtimeconfig.json
+D:\ISTA421\Labs\SportsStore\bin\Debug\netcoreapp2.1\SportsStore.runtimeconfig.dev.json
+D:\ISTA421\Labs\SportsStore\bin\Debug\netcoreapp2.1\SportsStore.dll
+D:\ISTA421\Labs\SportsStore\bin\Debug\netcoreapp2.1\SportsStore.pdb
+D:\ISTA421\Labs\SportsStore\bin\Debug\netcoreapp2.1\SportsStore.Views.dll
+D:\ISTA421\Labs\SportsStore\bin\Debug\netcoreapp2.1\SportsStore.Views.pdb
+D:\ISTA421\Labs\SportsStore\obj\Debug\netcoreapp2.1\SportsStore.csprojAssemblyReference.cache
+D:\ISTA421\Labs\SportsStore\obj\Debug\netcoreapp2.1\SportsStore.csproj.CoreCompileInputs.cache
+D:\ISTA421\Labs\SportsStore\obj\Debug\netcoreapp2.1\SportsStore.RazorAssemblyInfo.cache
+D:\ISTA421\Labs\SportsStore\obj\Debug\netcoreapp2.1\SportsStore.RazorAssemblyInfo.cs
+D:\ISTA421\Labs\SportsStore\obj\Debug\netcoreapp2.1\SportsStore.AssemblyInfoInputs.cache
+D:\ISTA421\Labs\SportsStore\obj\Debug\netcoreapp2.1\SportsStore.AssemblyInfo.cs
+D:\ISTA421\Labs\SportsStore\obj\Debug\netcoreapp2.1\SportsStore.TagHelpers.input.cache
+D:\ISTA421\Labs\SportsStore\obj\Debug\netcoreapp2.1\SportsStore.TagHelpers.output.cache
+D:\ISTA421\Labs\SportsStore\obj\Debug\netcoreapp2.1\SportsStore.RazorCoreGenerate.cache
+D:\ISTA421\Labs\SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Cart\Index.cshtml.g.cs
+D:\ISTA421\Labs\SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Product\List.cshtml.g.cs
+D:\ISTA421\Labs\SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\NavigationMenu\Default.cshtml.g.cs
+D:\ISTA421\Labs\SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\ProductSummary.cshtml.g.cs
+D:\ISTA421\Labs\SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\ISTA421\Labs\SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\ISTA421\Labs\SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\ISTA421\Labs\SportsStore\obj\Debug\netcoreapp2.1\SportsStore.RazorTargetAssemblyInfo.cache
+D:\ISTA421\Labs\SportsStore\obj\Debug\netcoreapp2.1\SportsStore.RazorTargetAssemblyInfo.cs
+D:\ISTA421\Labs\SportsStore\obj\Debug\netcoreapp2.1\SportsStore.Views.pdb
+D:\ISTA421\Labs\SportsStore\obj\Debug\netcoreapp2.1\SportsStore.dll
+D:\ISTA421\Labs\SportsStore\obj\Debug\netcoreapp2.1\SportsStore.pdb
+D:\ISTA421\Labs\SportsStore\obj\Debug\netcoreapp2.1\SportsStore.genruntimeconfig.cache
+D:\ISTA421\Labs\SportsStore\obj\Debug\netcoreapp2.1\SportsStore.csproj.CopyComplete
+D:\ISTA421\Labs\SportsStore - Chapter09\bin\Debug\netcoreapp2.1\appsettings.json
+D:\ISTA421\Labs\SportsStore - Chapter09\bin\Debug\netcoreapp2.1\libman.json
+D:\ISTA421\Labs\SportsStore - Chapter09\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\ISTA421\Labs\SportsStore - Chapter09\bin\Debug\netcoreapp2.1\SportsStore.deps.json
+D:\ISTA421\Labs\SportsStore - Chapter09\bin\Debug\netcoreapp2.1\SportsStore.runtimeconfig.json
+D:\ISTA421\Labs\SportsStore - Chapter09\bin\Debug\netcoreapp2.1\SportsStore.runtimeconfig.dev.json
+D:\ISTA421\Labs\SportsStore - Chapter09\bin\Debug\netcoreapp2.1\SportsStore.dll
+D:\ISTA421\Labs\SportsStore - Chapter09\bin\Debug\netcoreapp2.1\SportsStore.pdb
+D:\ISTA421\Labs\SportsStore - Chapter09\bin\Debug\netcoreapp2.1\SportsStore.Views.dll
+D:\ISTA421\Labs\SportsStore - Chapter09\bin\Debug\netcoreapp2.1\SportsStore.Views.pdb
+D:\ISTA421\Labs\SportsStore - Chapter09\obj\Debug\netcoreapp2.1\SportsStore.csprojAssemblyReference.cache
+D:\ISTA421\Labs\SportsStore - Chapter09\obj\Debug\netcoreapp2.1\SportsStore.csproj.CoreCompileInputs.cache
+D:\ISTA421\Labs\SportsStore - Chapter09\obj\Debug\netcoreapp2.1\SportsStore.RazorAssemblyInfo.cache
+D:\ISTA421\Labs\SportsStore - Chapter09\obj\Debug\netcoreapp2.1\SportsStore.RazorAssemblyInfo.cs
+D:\ISTA421\Labs\SportsStore - Chapter09\obj\Debug\netcoreapp2.1\SportsStore.AssemblyInfoInputs.cache
+D:\ISTA421\Labs\SportsStore - Chapter09\obj\Debug\netcoreapp2.1\SportsStore.AssemblyInfo.cs
+D:\ISTA421\Labs\SportsStore - Chapter09\obj\Debug\netcoreapp2.1\SportsStore.TagHelpers.input.cache
+D:\ISTA421\Labs\SportsStore - Chapter09\obj\Debug\netcoreapp2.1\SportsStore.TagHelpers.output.cache
+D:\ISTA421\Labs\SportsStore - Chapter09\obj\Debug\netcoreapp2.1\SportsStore.RazorCoreGenerate.cache
+D:\ISTA421\Labs\SportsStore - Chapter09\obj\Debug\netcoreapp2.1\Razor\Views\Cart\Index.cshtml.g.cs
+D:\ISTA421\Labs\SportsStore - Chapter09\obj\Debug\netcoreapp2.1\Razor\Views\Product\List.cshtml.g.cs
+D:\ISTA421\Labs\SportsStore - Chapter09\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\NavigationMenu\Default.cshtml.g.cs
+D:\ISTA421\Labs\SportsStore - Chapter09\obj\Debug\netcoreapp2.1\Razor\Views\Shared\ProductSummary.cshtml.g.cs
+D:\ISTA421\Labs\SportsStore - Chapter09\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\ISTA421\Labs\SportsStore - Chapter09\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\ISTA421\Labs\SportsStore - Chapter09\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\ISTA421\Labs\SportsStore - Chapter09\obj\Debug\netcoreapp2.1\SportsStore.RazorTargetAssemblyInfo.cache
+D:\ISTA421\Labs\SportsStore - Chapter09\obj\Debug\netcoreapp2.1\SportsStore.RazorTargetAssemblyInfo.cs
+D:\ISTA421\Labs\SportsStore - Chapter09\obj\Debug\netcoreapp2.1\SportsStore.Views.pdb
+D:\ISTA421\Labs\SportsStore - Chapter09\obj\Debug\netcoreapp2.1\SportsStore.dll
+D:\ISTA421\Labs\SportsStore - Chapter09\obj\Debug\netcoreapp2.1\SportsStore.pdb
+D:\ISTA421\Labs\SportsStore - Chapter09\obj\Debug\netcoreapp2.1\SportsStore.genruntimeconfig.cache
+D:\ISTA421\Labs\SportsStore - Chapter09\obj\Debug\netcoreapp2.1\SportsStore.csproj.CopyComplete
+D:\ISTA421\Labs\SportsStore - Chapter10\bin\Debug\netcoreapp2.1\appsettings.json
+D:\ISTA421\Labs\SportsStore - Chapter10\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\ISTA421\Labs\SportsStore - Chapter10\bin\Debug\netcoreapp2.1\libman.json
+D:\ISTA421\Labs\SportsStore - Chapter10\bin\Debug\netcoreapp2.1\SportsStore.deps.json
+D:\ISTA421\Labs\SportsStore - Chapter10\bin\Debug\netcoreapp2.1\SportsStore.runtimeconfig.json
+D:\ISTA421\Labs\SportsStore - Chapter10\bin\Debug\netcoreapp2.1\SportsStore.runtimeconfig.dev.json
+D:\ISTA421\Labs\SportsStore - Chapter10\bin\Debug\netcoreapp2.1\SportsStore.dll
+D:\ISTA421\Labs\SportsStore - Chapter10\bin\Debug\netcoreapp2.1\SportsStore.pdb
+D:\ISTA421\Labs\SportsStore - Chapter10\bin\Debug\netcoreapp2.1\SportsStore.Views.dll
+D:\ISTA421\Labs\SportsStore - Chapter10\bin\Debug\netcoreapp2.1\SportsStore.Views.pdb
+D:\ISTA421\Labs\SportsStore - Chapter10\obj\Debug\netcoreapp2.1\SportsStore.csprojAssemblyReference.cache
+D:\ISTA421\Labs\SportsStore - Chapter10\obj\Debug\netcoreapp2.1\SportsStore.csproj.CoreCompileInputs.cache
+D:\ISTA421\Labs\SportsStore - Chapter10\obj\Debug\netcoreapp2.1\SportsStore.RazorAssemblyInfo.cache
+D:\ISTA421\Labs\SportsStore - Chapter10\obj\Debug\netcoreapp2.1\SportsStore.RazorAssemblyInfo.cs
+D:\ISTA421\Labs\SportsStore - Chapter10\obj\Debug\netcoreapp2.1\SportsStore.AssemblyInfoInputs.cache
+D:\ISTA421\Labs\SportsStore - Chapter10\obj\Debug\netcoreapp2.1\SportsStore.AssemblyInfo.cs
+D:\ISTA421\Labs\SportsStore - Chapter10\obj\Debug\netcoreapp2.1\SportsStore.TagHelpers.input.cache
+D:\ISTA421\Labs\SportsStore - Chapter10\obj\Debug\netcoreapp2.1\SportsStore.TagHelpers.output.cache
+D:\ISTA421\Labs\SportsStore - Chapter10\obj\Debug\netcoreapp2.1\SportsStore.RazorCoreGenerate.cache
+D:\ISTA421\Labs\SportsStore - Chapter10\obj\Debug\netcoreapp2.1\Razor\Views\Cart\Index.cshtml.g.cs
+D:\ISTA421\Labs\SportsStore - Chapter10\obj\Debug\netcoreapp2.1\Razor\Views\Order\Checkout.cshtml.g.cs
+D:\ISTA421\Labs\SportsStore - Chapter10\obj\Debug\netcoreapp2.1\Razor\Views\Product\List.cshtml.g.cs
+D:\ISTA421\Labs\SportsStore - Chapter10\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\CartSummary\Default.cshtml.g.cs
+D:\ISTA421\Labs\SportsStore - Chapter10\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\NavigationMenu\Default.cshtml.g.cs
+D:\ISTA421\Labs\SportsStore - Chapter10\obj\Debug\netcoreapp2.1\Razor\Views\Shared\ProductSummary.cshtml.g.cs
+D:\ISTA421\Labs\SportsStore - Chapter10\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\ISTA421\Labs\SportsStore - Chapter10\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\ISTA421\Labs\SportsStore - Chapter10\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\ISTA421\Labs\SportsStore - Chapter10\obj\Debug\netcoreapp2.1\SportsStore.RazorTargetAssemblyInfo.cache
+D:\ISTA421\Labs\SportsStore - Chapter10\obj\Debug\netcoreapp2.1\SportsStore.RazorTargetAssemblyInfo.cs
+D:\ISTA421\Labs\SportsStore - Chapter10\obj\Debug\netcoreapp2.1\SportsStore.Views.pdb
+D:\ISTA421\Labs\SportsStore - Chapter10\obj\Debug\netcoreapp2.1\SportsStore.dll
+D:\ISTA421\Labs\SportsStore - Chapter10\obj\Debug\netcoreapp2.1\SportsStore.pdb
+D:\ISTA421\Labs\SportsStore - Chapter10\obj\Debug\netcoreapp2.1\SportsStore.genruntimeconfig.cache
+D:\ISTA421\Labs\SportsStore - Chapter10\obj\Debug\netcoreapp2.1\SportsStore.csproj.CopyComplete
+D:\ISTA421\Labs\SportsStore - Chapter10\obj\Debug\netcoreapp2.1\Razor\Views\Order\Completed.cshtml.g.cs
