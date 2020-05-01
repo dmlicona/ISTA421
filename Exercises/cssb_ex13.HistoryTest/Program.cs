@@ -25,20 +25,14 @@ namespace cssb_ex13.HistoryTest
             int howMany = int.Parse(Console.ReadLine());
 
             List<string> test = Util.MakeTest(testBank, howMany);
-            foreach(string q in test)
-                Console.WriteLine(q);
-
-            //Console.WriteLine($"Test created, {test.Count} questions.");
-            //Console.WriteLine("************************************************\n");
-            //Console.WriteLine("      Press any key to begin test. Good luck... \n");
-            //Console.WriteLine("************************************************\n");
-            //Console.ReadKey();
-            //int score = Util.GiveTest(test);
-            //Console.WriteLine($"You asnwered {score} out of {howMany} correctly and your grade is {(double)score / howMany * 100}");
-
-
-
+            Console.WriteLine($"Test created, {test.Count} questions.");
             
+            Console.WriteLine("************************************************\n");
+            Console.WriteLine("      Press any key to begin test. Good luck... \n");
+            Console.WriteLine("************************************************\n");
+            Console.ReadKey();
+            int score = Util.GiveTest(test);
+            Console.WriteLine($"You asnwered {score} out of {howMany} correctly and your grade is {(double)score / howMany * 100}");
 
 
         }
